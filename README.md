@@ -4,10 +4,12 @@ Welcome to Yummy Tummy, the ultimate destination for food lovers! Discover a var
 
 Features ✨
 Explore Menu: Browse through our extensive collection of mouth-watering dishes.
+
 Responsive Design: Enjoy a smooth experience on any device.
+
 Interactive UI: User-friendly interface with delightful animations and transitions.
 Demo 🚀
-Check out the live demo: Yummy Tummy Demo
+Check out the live demo:[ Yummy Tummy Demo](https://ajayd1012.github.io/Yummy-Tummy/)
 
 <h1 align="center">Hi 👋, I'm Ajay Dadke</h1>
 <h3 align="center">A passionate frontend(React) developer from India</h3>
